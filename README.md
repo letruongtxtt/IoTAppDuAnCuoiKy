@@ -29,9 +29,7 @@ Mục tiêu của dự án:
 ---
 
 ##  Sơ đồ dự án
-[Cảm biến mưa] [Quang trở CdS] [Servo kéo rèm] [Đèn LED]
-\ | /
-\——→ [ESP32 (firmware)] ——→ MQTT Broker (HiveMQ Cloud) ——→ Node-RED flow (Cloud/Server) ——→ Node-RED Dashboard (PC, Smartphone)
+[Cảm biến mưa] [Quang trở CdS] [Servo kéo rèm] [Đèn LED]\——→ [ESP32 (firmware)] ——→ MQTT Broker (HiveMQ Cloud) ——→ Node-RED flow (Cloud/Server) ——→ Node-RED Dashboard (PC, Smartphone)
 
 
 ![Sơ đồ dự án](Pic+Video/Sododuan.png)
@@ -147,6 +145,7 @@ File json để import vào Node-Red: [Node-red/flows.json](Node-red/flows.json)
 
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
 
 
 
