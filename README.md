@@ -119,7 +119,6 @@ Lưu ý: Servo cần nguồn ngoài ít nhất 5V để hoạt động ổn đ�
 
 * Node-Red Dashboard thay đổi tương ứng với gia trị các cảm biến gửi về trong quá trình thử nghiệm -> hoạt động hiển thị đã như mong muốn
 [NR-Dashboard1.mp4](Pic+Video\NR-Dashboard1.mp4),
-
 [NR-Dashboard2.mp4](Pic+Video\NR-Dashboard2.mp4)
 ---
 
@@ -146,6 +145,7 @@ File json để import vào Node-Red: [Node-red/flows.json](flows.json)
 
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
 
 
 
