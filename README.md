@@ -108,7 +108,7 @@ Lưu ý: Servo cần nguồn ngoài ít nhất 5V để hoạt động ổn đ�
 ##  Ảnh, Video & Kết quả (Demo)  
 
 - Ảnh mô hình mạch + ESP32 + cảm biến + servo
-![Sơ đồ mạch test thực tế](<Pic+Video\Machthucte.png>) 
+![Sơ đồ mạch test thực tế](Pic+Video/Machthucte.png) 
 - Ảnh Dashboard Node-RED hiển thị dữ liệu  
 ![NodeRed-Dashboard](Pic+Video/NR-Dashboard.png)
 - Video quay cảnh servo đóng/mở khi nắng hoặc mưa
@@ -147,3 +147,4 @@ File json để import vào Node-Red: [Node-red/flows.json](Node-red/flows.json)
 
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
