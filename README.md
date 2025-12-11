@@ -44,7 +44,7 @@ Mục tiêu của dự án:
 
 #### Sơ đồ chân ESP32 sử dụng trong dự án:
 
-![ESP32ESP32 Doit Devkit V1 (30 pins)](Pic+Video\ESP32-devkitV1.png)
+![ESP32ESP32 Doit Devkit V1 (30 pins)](Pic+Video/ESP32-devkitV1.png)
 
 #### 1. Kết nối cảm biến mưa (Rain Sensor)
 | Thành phần   | Chân module  | Kết nối tới ESP32 / Nguồn |
@@ -147,4 +147,5 @@ File json để import vào Node-Red: [Node-red/flows.json](Node-red/flows.json)
 
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
 
