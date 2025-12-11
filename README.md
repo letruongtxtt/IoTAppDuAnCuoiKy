@@ -34,7 +34,7 @@ Mục tiêu của dự án:
 \——→ [ESP32 (firmware)] ——→ MQTT Broker (HiveMQ Cloud) ——→ Node-RED flow (Cloud/Server) ——→ Node-RED Dashboard (PC, Smartphone)
 
 
-![Sơ đồ dự án](<Pic+Video\Sododuan.png>)
+![Sơ đồ dự án](Pic+Video/Sododuan.png)
 
 ## Sơ đồ hệ thống
 - ESP32 đọc cảm biến → quyết định mở/đóng rèm → publish dữ liệu & trạng thái lên MQTT.  
@@ -147,5 +147,6 @@ File json để import vào Node-Red: [Node-red/flows.json](Node-red/flows.json)
 
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
 
 
