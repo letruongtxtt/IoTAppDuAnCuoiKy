@@ -112,14 +112,14 @@ Lưu ý: Servo cần nguồn ngoài ít nhất 5V để hoạt động ổn đ�
 - Video quay cảnh servo đóng/mở khi nắng hoặc mưa
 * Khi LED báo hiệu sáng -> tức là servo quay đóng rèm, và ngược lại.
 * Cảm biến mưa hoạt động dựa trên nguyên lý: Nước rơi vào board (tấm cảm biến) sẽ tạo ra môi trường dẫn điện -> quay servo đóng rèm
-[demo+testRainSensor.mp4](Pic+Video\demo+testRainSensor.mp4)
+[demo+testRainSensor.mp4](Pic+Video/demo+testRainSensor.mp4)
 
 * Sử dụng nguồn sáng trong video là đèn để bàn, khi cho sát lại gần quang trở -> cường độ sáng tăng -> vượt qua mốc sẽ quay servo đóng rèm
-[testCds.mp4](Pic+Video\testCds.mp4)
+[testCds.mp4](Pic+Video/testCds.mp4)
 
 * Node-Red Dashboard thay đổi tương ứng với gia trị các cảm biến gửi về trong quá trình thử nghiệm -> hoạt động hiển thị đã như mong muốn
-[NR-Dashboard1.mp4](Pic+Video\NR-Dashboard1.mp4),
-[NR-Dashboard2.mp4](Pic+Video\NR-Dashboard2.mp4)
+[NR-Dashboard1.mp4](Pic+Video/NR-Dashboard1.mp4),
+[NR-Dashboard2.mp4](Pic+Video/NR-Dashboard2.mp4)
 ---
 
 ##  Kết luận & Đánh giá  
@@ -145,6 +145,7 @@ File json để import vào Node-Red: [Node-red/flows.json](flows.json)
 
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
 
 
 
