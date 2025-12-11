@@ -42,7 +42,7 @@ Mục tiêu của dự án:
 ### Nối chân:
 #### Sơ đồ chân ESP32 sử dụng trong dự án:
 
-![ESP32ESP32 Doit Devkit V1 (30 pins)](Pic+Video\ESP32.png)
+![ESP32ESP32 Doit Devkit V1 (30 pins)](<Pic+Video\ESP32.png>)
 
 #### 1. Kết nối cảm biến mưa (Rain Sensor)
 | Thành phần   | Chân module  | Kết nối tới ESP32 / Nguồn |
@@ -142,5 +142,6 @@ Lưu ý: Servo cần nguồn ngoài ít nhất 5V để hoạt động ổn đ�
 - Copy bằng cách: Tải về hoặc copy code trong file sau đó vào trang Node-Red -> biểu tượng cài đặt 3 dấu gạch ngang góc trên bên phải -> Import -> Paste code hoặc load file json vừa tải về lên -> Nhấn Import.
 
 > Nếu bạn muốn thử — hãy clone repo này và chạy theo hướng dẫn. Mình luôn hoan nghênh pull-request để mở rộng dự án 😊
+
 
 
